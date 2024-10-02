@@ -1,0 +1,97 @@
+---
+layout: t2
+title: Resources
+---
+# resources
+
+---
+
+A buncha resources for website making and other stuff!
+
+## Credits <i class="ph ph-users-three"></i>
+
+The stuff that I used to make this website myself!
+
+- Sublime Text, my main code editor - [link <i class="ph ph-link"></i>](https://www.sublimetext.com/)
+
+- BaguetteBox, the lightbox gallery I use- [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
+
+- Eleventy, the SSG that I'm using right now! - [link <i class="ph ph-link"></i>](https://www.11ty.dev/)
+
+- Ayano's Comment Widget, used on the guestbook - [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
+
+- Goblin Heart layout builder, the base code for the website - [link <i class="ph ph-link"></i>](https://goblin-heart.net/sadgrl/projects/layout-builder/)
+
+- CSSgradient, what I used to make all of the gradients here - [link <i class="ph ph-link"></i>](https://cssgradient.io)
+
+- Phosphoricons, the icon pack you're seeing all over the place - [link <i class="ph ph-link"></i>](https://phosphoricons.com/)
+
+---
+
+## Webhosts <i class="ph ph-browsers"></i>
+I haven't used most of these myself, but I've heard some good things. Maybe in the future I'll add a pros and cons list for these things
+
+- Teacake - [link <i class="ph ph-link"></i>](https://teacake.org/)
+
+- Lexiqqq - [link <i class="ph ph-link"></i>](https://hosting.lexiqqq.com/)
+
+- Nekoweb - [link <i class="ph ph-link"></i>](https://nekoweb.org/)
+
+- Neocities - [link <i class="ph ph-link"></i>](https://neocities.org/)
+
+- Dorothea - [link <i class="ph ph-link"></i>](https://dorothea.us/)
+
+- Leprd Space - [link <i class="ph ph-link"></i>](https://leprd.space/)
+
+- Github Pages - [link <i class="ph ph-link"></i>](https://pages.github.com/)
+
+- Marigold Town - [link <i class="ph ph-link"></i>](https://marigold.town/)
+
+---
+
+## Tutorials <i class="ph ph-notepad"></i>
+A bunch of things that I read that helped me make this website
+
+- PetraPixel - [link <i class="ph ph-link"></i>](https://petrapixel.neocities.org/)
+
+- W3schools - [link <i class="ph ph-link"></i>](https://www.w3schools.com/)
+
+- Neoskitties - [link <i class="ph ph-link"></i>](https://neoskitties.org/)
+
+- Sadgrl Archive - [link <i class="ph ph-link"></i>](https://goblin-heart.net/sadgrl/)
+
+- Flexbox Froggy - [link <i class="ph ph-link"></i>](https://flexboxfroggy.com/)
+
+- Solaria's Guides - [link <i class="ph ph-link"></i>](https://solaria.neocities.org/guides)
+
+- Let's Learn Eleventy - [link <i class="ph ph-link"></i>](https://dev.to/psypher1/series/18202)
+
+---
+
+## Media <i class="ph ph-file-image"></i>
+Colors, ASCII as well as some other stuff
+
+- Beepbox, make music on your browser - [link <i class="ph ph-link"></i>](https://www.beepbox.co/)
+
+- Ascii archive, categorized by the ASCII's theme - [link <i class="ph ph-link"></i>](https://www.asciiart.eu/)
+
+- Ezgif, not just gifs! It can be other stuff as well - [link <i class="ph ph-link"></i>](https://ezgif.com/)
+
+- Button Maker, idk what else to tell you, it's a button maker - [link <i class="ph ph-link"></i>](https://hekate2.github.io/buttonmaker/)
+
+- Patternico, background maker, I used this a few times in the past - [link <i class="ph ph-link"></i>](https://patternico.com/)
+
+---
+
+## Add-Ons <i class="ph ph-folder-plus"></i>
+Stuff you can put on your website <i class="ph ph-folder-plus"></i>
+
+- Chattable, have a chatbox - [link <i class="ph ph-link"></i>](https://iframe.chat/)
+
+- BaguetteBox, lightbox gallery - [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
+
+- Bloggable, iframe blogging tool - [link <i class="ph ph-link"></i>](https://iframe.chat/)
+
+- Incremental Button, make number go up - [link <i class="ph ph-link"></i>](https://incr.easrng.net/)
+
+- Ayano's Comment Widget, cool guestbook tool - [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
