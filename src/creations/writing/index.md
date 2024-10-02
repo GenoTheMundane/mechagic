@@ -6,7 +6,6 @@ title: Writing
 # my writing
 
 ---
-
 ## Short Stories And Concepts <i class="ph ph-notebook"></i>
 My short stories, I mostly make them up on the fly. I put my concepts here as well.
 
