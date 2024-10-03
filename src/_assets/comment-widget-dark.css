@@ -192,6 +192,7 @@
     margin: 0;
     margin-left: -10px;
     margin-right: -10px;
+    overflow-x: auto;
     padding-left: 25px;
     padding-top: 10px;
     padding-bottom: 10px;

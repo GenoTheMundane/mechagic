@@ -521,6 +521,9 @@
     }
     .header__mobile {
     display:block;
+    width:100%;
+    border-left: 0px;
+    border-right: 0px;
     }
     #leftSidebar-desk {
     display:none;
@@ -538,6 +541,10 @@
     main {
     order:2;
     height:auto;
+    padding:25px;
+    margin:0%;
+    border-left: 0px;
+    border-right: 0px;
     }
     #leftSidebar {
     order:1;

@@ -9,6 +9,9 @@ title: Misc
 
 All of these were made for this website!, you can see two of them on the right sidebar!
 <div class="gallery">
+        <a href="/_img/1favicon.png" data-caption="The little icon on the corner of the tab">
+            <img class="thumb" src="/_img/1favicon.png" alt="The little icon on the corner of the tab">
+        </a>
         <a href="/_img/1bg.png" data-caption="The background image that is repeated a bunch">
             <img class="thumb" src="/_img/1bg.png" alt="The background image that is repeated a bunch">
         </a>
