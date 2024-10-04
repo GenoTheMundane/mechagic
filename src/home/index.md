@@ -17,11 +17,7 @@ Here are some useless facts about me: Minor, ENT-P, Earth Rat, and I won't have 
 
 Here are some things that I like: Ice cream, Lasagna, 8 Bit Music, Lists and Corn
 
-Fun fact: This website was coded on firefox with a 1536x703 laptop!
-
-My carbon badge if any of y'all are interested in that:
-<div id="wcb" class="carbonbadge"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+Fun fact: This website was coded on firefox!
 
 ---
 ## Why All of This <i class="ph ph-seal-question"></i>
