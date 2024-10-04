@@ -27,7 +27,7 @@ All of these were made for this website!, you can see two of them on the right s
         <a href="/_img/1button.png" data-caption="Link to me to reduce your uncoolness points!">
             <img class="thumb" src="/_img/1button.png" alt="Link to me to reduce your uncoolness points!">
         </a>
-        <a href="/_img/1pagenotfound.png" data-caption="You found a page that doesn't exist! Or maybe it used to exist and I deleted it for some reason">
+        <a href="/_img/1pagenotfound.png" data-caption="Drawing for the 404 page">
             <img class="thumb" src="/_img/1pagenotfound.png" alt="Drawing for the 404 page">
         </a>
     </div>
