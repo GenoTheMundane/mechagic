@@ -8,7 +8,7 @@ title: Website
 ---
 
 ***click the image below to enter the website!***
-
+aauauauuauauuuhghghg testing testing
 [<img src="/_img/1entrance.png" onclick="this.src = '/_img/1entrance_hover.png';" onmouseover="this.src = '/_img/1entrance_hover.png';"  onmouseout="this.src = '/_img/1entrance.png';" style="width:80%; border-radius:15px; border:2px solid var(--brdr);">](/home)
 
 
