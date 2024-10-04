@@ -49,7 +49,7 @@ None of these are real, I am not getting paid SAD!
 
 <center><iframe style="width:180px; height:180px; margin-right:10px;" src="https://fazlabz-dev.github.io/openlink/embed.html" name="neolink"></iframe> <iframe style="width:180px; height:180px; margin-left:10px;" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe>
 
-<iframe style="width:468px; height:60px; margin-top:10px;" src="https://hbaguette.neocities.org/bannerlink/embed.html" name="bannerlink"></iframe> </center>
+<iframe style="width:35%; margin-top:10px;" src="https://hbaguette.neocities.org/bannerlink/embed.html" name="bannerlink"></iframe> </center>
 
 ---
 
@@ -69,7 +69,7 @@ Like this website? You also might like the other websites here:
                     </div>
 <script src="https://webcatz.neocities.org/beepbox-webring/ring.js"></script>
 <!--START OF SELF INSERT WEBRING-->
-<div id="selfinsertwebring" width="85%">
+<div id="selfinsertwebring" style="width:75%;">
     <script src="/_assets/showWebring.js"></script>
 </div>
 </center>
