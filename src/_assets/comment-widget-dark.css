@@ -128,7 +128,13 @@
 	outline: none;
 }
 
-.c-textInput, .c-nameInput, .c-websiteInput {
+.c-nameInput, .c-websiteInput {
+    width: calc(100% - 10px);
+    max-width: 450px;
+    resize: none;
+}
+
+.c-textInput{
     width: calc(100% - 10px);
     max-width: 900px;
     resize: none;
