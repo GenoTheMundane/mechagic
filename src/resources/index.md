@@ -20,6 +20,10 @@ The stuff that I used to make this website myself!
 
 - Ayano's Comment Widget, used on the guestbook - [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
 
+- Dithermark, for the dithering on some of the images - [link <i class="ph ph-link"></i>](https://app.dithermark.com/)
+
+- 11ty -> Lexiqqq Workflow, cuts out a ton of annoying work - [link <i class="ph ph-link"></i>](https://moosyu.github.io/pages/guides/lexiqqq_eleventy/)
+
 - Goblin Heart layout builder, the base code for the website - [link <i class="ph ph-link"></i>](https://goblin-heart.net/sadgrl/projects/layout-builder/)
 
 - CSSgradient, what I used to make all of the gradients here - [link <i class="ph ph-link"></i>](https://cssgradient.io)
