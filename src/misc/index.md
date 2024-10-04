@@ -6,7 +6,7 @@ title: Misc
 ---
 
 ## All Images <i class="ph ph-images"></i>
-fjfjfidkfjfjfgjgj testing testingjfjfjfj
+
 All of these were made for this website!, you can see two of them on the right sidebar!
 <div class="gallery">
         <a href="/_img/1favicon.png" data-caption="The little icon on the corner of the tab">
