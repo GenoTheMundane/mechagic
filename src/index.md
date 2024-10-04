@@ -69,7 +69,7 @@ code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neociti
                     </div>
                     <script src="https://webcatz.neocities.org/beepbox-webring/ring.js"></script>
                     <!--START OF SELF INSERT WEBRING-->
-                    <div id="selfinsertwebring" style="width:75%;">
+                    <div id="selfinsertwebring">
                         <script src="/_assets/showWebring.js"></script>
                     </div>
                     <!--END OF SELF INSERT WEBRING-->

@@ -69,7 +69,7 @@ Like this website? You also might like the other websites here:
                     </div>
 <script src="https://webcatz.neocities.org/beepbox-webring/ring.js"></script>
 <!--START OF SELF INSERT WEBRING-->
-<div id="selfinsertwebring" style="width:75%;">
+<div id="selfinsertwebring">
     <script src="/_assets/showWebring.js"></script>
 </div>
 </center>
