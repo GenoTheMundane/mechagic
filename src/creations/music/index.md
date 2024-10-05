@@ -6,7 +6,7 @@ title: Music
 # my music
 
 
-I have been attempting to make music on Beepbox recently. You can listen to all of these attempts right here! As of right now, there are only 2 to listen to.
+I have been attempting to make music on Beepbox recently. You can listen to all of these attempts right here!
 
 ---
 
