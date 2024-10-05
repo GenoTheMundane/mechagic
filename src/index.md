@@ -33,7 +33,7 @@ Have a button that I made:
 
 A buncha people I met on the `r/neocities discord server`
 
-[<img class="bton" src="https://xobyte.org/files/poyo-reporter.png">](https://reporter.poyo.study/) [<img class="bton" src="https://april.lexiqqq.com/buttons/button.webp">](https://april.lexiqqq.com/) [<img class="bton" src="https://xobyte.org/files/button.gif">](https://xobyte.org/)
+[<img class="bton" src="https://xobyte.org/files/poyo-reporter.png">](https://reporter.poyo.study/) [<img class="bton" src="https://april.lexiqqq.com/buttons/button.webp">](https://april.lexiqqq.com/) [<img class="bton" src="https://xobyte.org/files/button.gif">](https://xobyte.org/) [<img class="bton" src="https://moosyu.github.io/assets/swirlCatppuccin.gif">](https://moosyu.github.io/)
 
 ## Microblog
 code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neocities.org/resources/tut_statuscafefeed)
