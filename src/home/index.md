@@ -6,7 +6,7 @@ title: Home
 ---
 ##  About Me <i class="ph ph-bug-beetle"></i>
 
-Hi! I'm **MECHAGIC**. A mundane underage moron, I am also the IRL version of the cockroach from metamorphosis!
+Hi! I'm **`MECHAGIC`**. A mundane underage moron, I am also the IRL version of the cockroach from metamorphosis!
 
 I am some rando online that likes playing random games I sort of just post random stuff that has no substance whatsoever, aside from the rare art. I also recently got into some tarot stuff, but I don't post about it, I just find it interesting
 
@@ -17,7 +17,7 @@ Here are some useless facts about me: Minor, ENT-P, Earth Rat, and I won't have 
 
 Here are some things that I like: Ice cream, Lasagna, 8 Bit Music, Lists and Corn
 
-Fun fact: This website was coded on firefox!
+Fun fact: This website was coded on Firefox!
 
 ---
 ## Why All of This <i class="ph ph-seal-question"></i>

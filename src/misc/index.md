@@ -42,12 +42,19 @@ Feed my children
         </center>
 
 ---
+## My Friendos <i class="ph ph-smiley"></i>
+
+A buncha people I met on the `r/neocities discord server`
+
+---
 
 ## Advertisements <i class="ph ph-x-circle"></i>
 
 None of these are real, I am not getting paid SAD!
 
-<center><iframe style="width:180px; height:180px; margin-right:10px;" src="https://fazlabz-dev.github.io/openlink/embed.html" name="neolink"></iframe> <iframe style="width:180px; height:180px; margin-left:10px;" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe>
+<center><iframe style="width:180px; height:180px; margin-right:10px;" src="https://fazlabz-dev.github.io/openlink/embed.html" name="neolink"></iframe>
+
+<iframe style="width:180px; height:180px; margin-left:10px;" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe></center>
 
 ---
 

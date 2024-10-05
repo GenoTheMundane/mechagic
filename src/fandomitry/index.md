@@ -19,7 +19,7 @@ A buncha good stuff that I have watched and enjoyed
      <div class="crnlft">
          <center><img src="/_img/2bloodybunny.jpg" style="width:75%; border-radius:15px;"></center>
          <b>Content Warnings:</b>
- Eyestrain, flashing lights, child abuse, body horror, gore and death
+ `Eyestrain, flashing lights, child abuse, body horror, gore and death`
      </div>
      <div class="crnrht">
         <h3>Bloody Bunny: The First Blood</h3>
@@ -38,7 +38,7 @@ The series takes Bloody Bunny back to its darker roots of the original series, h
      <div class="crnlft">
          <center><img src="/_img/2internecioncube.jpg" style="width:75%; border-radius:15px;"></center>
          <b>Content Warnings:</b>
- Body horror, gore and robot death
+ `Body horror, gore and robot death`
      </div>
      <div class="crnrht">
         <h3>Internecion Cube</h3>
@@ -57,7 +57,7 @@ Internecion Cube is a cartoon animatic series by Liam Vickers, the maker of Clif
      <div class="crnlft">
          <center><img src="/_img/2junearchive.jpg" style="width:75%; border-radius:15px;"></center>
          <b>Content Warnings:</b>
-  Eyestrain, flashing lights, unreality, and child death.
+  `Eyestrain, flashing lights, unreality, and child death.`
      </div>
      <div class="crnrht">
         <h3>The June Archive And Restoration Project</h3>
@@ -74,7 +74,7 @@ A series that dictates Hatena's shutdown from the perspective of the Flipnotes a
      <div class="crnlft">
          <center><img src="/_img/2satina.jpg" style="width:75%; border-radius:15px;"></center>
          <b>Content Warnings:</b>
-  None
+  `None`
      </div>
      <div class="crnrht">
         <h3>Satina</h3>
@@ -91,7 +91,7 @@ Satina details the life and (mis)adventures of the eponymous cambion and her par
      <div class="crnlft">
          <center><img src="/_img/2solarballs.jpg" style="width:75%; border-radius:15px;"></center>
          <b>Content Warnings:</b>
-   Attempted suicide (Earth Arc).
+   `Attempted suicide (Earth Arc).`
      </div>
      <div class="crnrht">
         <h3>SolarBalls</h3>
@@ -111,7 +111,7 @@ I only read the finest literature *(intent: joke)*. These are all really good, I
      <div class="crnlft">
          <center><img src="/_img/3bibliomania.jpg" style="width:75%; border-radius:15px;"></center>
          <b>Content Warnings:</b>
-         Body horror, body modification, kidnapping, and abuse
+`Body horror, body modification, kidnapping, and abuse`
      </div>
      <div class="crnrht">
         <h3>Bibliomania</h3>
@@ -130,7 +130,7 @@ Will she be able to escape the cursed manor?
      <div class="crnlft">
          <center><img src="/_img/3dunmeshi.jpg" style="width:35%; border-radius:15px;"></center>
          <b>Content Warnings:</b>
-         Body modification, animal death, sapient death, and body horror
+`Body modification, animal death, sapient death, and body horror`
      </div>
      <div class="crnrht">
         <h3>Dungeon Meshi</h3>
@@ -145,7 +145,7 @@ After his sister is devoured by a dragon and losing all their supplies in a fail
      <div class="crnlft">
          <center><img src="/_img/3gyo.jpg" style="width:35%; border-radius:15px;"></center>
          <b>Content Warnings:</b>
-         Body modification, sapient death, and body horror
+`Body modification, sapient death, and body horror`
      </div>
      <div class="crnrht">
         <h3>Gyo</h3>
