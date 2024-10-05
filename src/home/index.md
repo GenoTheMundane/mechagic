@@ -40,18 +40,21 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
                     They
                 </button>
                 <button class="tablinks" onclick="openCity(event, '4')" id="defaultOpen">
+                    It
+                </button>
+                <button class="tablinks" onclick="openCity(event, '5')" id="defaultOpen">
                     Xe
                 </button>
-                <button class="tablinks" onclick="openCity(event, '5')">
+                <button class="tablinks" onclick="openCity(event, '6')">
                     Mock
                 </button>
-                <button class="tablinks" onclick="openCity(event, '6')">
+                <button class="tablinks" onclick="openCity(event, '7')">
                     Cyber
                 </button>
-                <button class="tablinks" onclick="openCity(event, '7')">
+                <button class="tablinks" onclick="openCity(event, '8')">
                     Mold
                 </button>
-                <button class="tablinks" onclick="openCity(event, '8')">
+                <button class="tablinks" onclick="openCity(event, '9')">
                     God
                 </button>               </div>
             <div id="1" class="tabcontent">
@@ -188,6 +191,44 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
                         </th>
                     </tr>
                     <tr>
+                        <td>
+                            It
+                        </td>
+                        <td>
+                            It
+                        </td>
+                        <td>
+                            It
+                        </td>
+                        <td>
+                            Its
+                        </td>
+                        <td>
+                            Itself
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="5" class="tabcontent">
+                <table style="width: 100%">
+                    <tr>
+                        <th>
+                            Subject
+                        </th>
+                        <th>
+                            Object
+                        </th>
+                        <th>
+                            Possessive Determiner
+                        </th>
+                        <th>
+                            Possessive Pronoun
+                        </th>
+                        <th>
+                            Reflexive
+                        </th>
+                    </tr>
+                    <tr>
                     <tr>
                         <td>
                             Xe
@@ -208,7 +249,7 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
                     </tr>
                 </table>
             </div>
-            <div id="5" class="tabcontent">
+            <div id="6" class="tabcontent">
                 <table style="width: 100%">
                     <tr>
                         <th>
@@ -246,7 +287,7 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
                     </tr>
                 </table>
             </div>
-            <div id="6" class="tabcontent">
+            <div id="7" class="tabcontent">
                 <table style="width: 100%">
                     <tr>
                         <th>
@@ -284,7 +325,7 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
                     </tr>
                 </table>
             </div>
-            <div id="7" class="tabcontent">
+            <div id="8" class="tabcontent">
                 <table style="width: 100%">
                     <tr>
                         <th>
@@ -322,7 +363,7 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
                     </tr>
                 </table>
             </div>
-            <div id="8" class="tabcontent">
+            <div id="9" class="tabcontent">
                 <table style="width: 100%">
                     <tr>
                         <th>
