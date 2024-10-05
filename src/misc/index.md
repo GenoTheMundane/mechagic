@@ -49,8 +49,6 @@ None of these are real, I am not getting paid SAD!
 
 <center><iframe style="width:180px; height:180px; margin-right:10px;" src="https://fazlabz-dev.github.io/openlink/embed.html" name="neolink"></iframe> <iframe style="width:180px; height:180px; margin-left:10px;" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe>
 
-<iframe style="width:70%; height:auto; margin-top:10px;" src="https://hbaguette.neocities.org/bannerlink/embed.html" name="bannerlink"></iframe> </center>
-
 ---
 
 ## All Webrings <i class="ph ph-handshake"></i>
