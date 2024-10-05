@@ -528,9 +528,6 @@
     }
     .header__mobile {
     display:block;
-    width:100%;
-    border-left: 0px;
-    border-right: 0px;
     }
     #leftSidebar-desk {
     display:none;
