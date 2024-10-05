@@ -199,6 +199,12 @@
     margin-right:15px;
     float:left;
     }
+    img.bton {
+    width:auto; 
+    height:33px; 
+    border-radius:5px; 
+    border:2px solid var(--brdr);
+    }
     img.tilt {
     transform: rotate(20deg);
     float:right;
