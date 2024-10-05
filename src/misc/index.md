@@ -2,7 +2,7 @@
 layout: t2
 title: Misc
 ---
-# miscellaneous
+# miscallaeny
 ---
 
 ## All Images <i class="ph ph-images"></i>
