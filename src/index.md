@@ -16,7 +16,7 @@ title: Website
   <div class="crnlft">
 Have a button that I made:
 
-![/_img/1button.png](/_img/1button.png)
+[<img class="bton" src="/_img/1button.png">](/_img/1button.png)
 
 <textarea class="copyButton"><a href="https://mechagic.lexiqqq.com/" target="_blank"><img src="https://i.ibb.co/wyKpKxK/1button.png"></a></textarea>
 </div>
