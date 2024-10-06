@@ -35,9 +35,11 @@ The stuff that I used to make this website myself!
 ## Webhosts <i class="ph ph-browsers"></i>
 I haven't used most of these myself, but I've heard some good things. Maybe in the future I'll add a pros and cons list for these things
 
-- Teacake - [link <i class="ph ph-link"></i>](https://teacake.org/)
+- Poyoweb - [link <i class="ph ph-link"></i>](https://poyoweb.poyo.study/)
 
 - Lexiqqq - [link <i class="ph ph-link"></i>](https://hosting.lexiqqq.com/)
+
+- Teacake - [link <i class="ph ph-link"></i>](https://teacake.org/)
 
 - Nekoweb - [link <i class="ph ph-link"></i>](https://nekoweb.org/)
 
