@@ -85,10 +85,9 @@ Colors, ASCII as well as some other stuff
 
 - Button Maker, idk what else to tell you, it's a button maker - [link <i class="ph ph-link"></i>](https://hekate2.github.io/buttonmaker/)
 
+- Layout Generator, actively maintained and made by Petrapixel - [link <i class="ph ph-link"></i>](https://petrapixel.neocities.org/coding/layout-generator)
+
 - Patternico, background maker, I used this a few times in the past - [link <i class="ph ph-link"></i>](https://patternico.com/)
-
-- Layout Generator, this one is actively maintaned and made by Petrapixel - [link <i class="ph ph-link"></i>](https://petrapixel.neocities.org/coding/layout-generator)
-
 ---
 
 ## Add-Ons <i class="ph ph-folder-plus"></i>
