@@ -74,7 +74,7 @@ A bunch of things that I read that helped me make this website
 
 ---
 
-## Media <i class="ph ph-file-image"></i>
+## Tools <i class="ph ph-pencil-ruler"></i>
 Colors, ASCII as well as some other stuff
 
 - Beepbox, make music on your browser - [link <i class="ph ph-link"></i>](https://www.beepbox.co/)
@@ -86,6 +86,8 @@ Colors, ASCII as well as some other stuff
 - Button Maker, idk what else to tell you, it's a button maker - [link <i class="ph ph-link"></i>](https://hekate2.github.io/buttonmaker/)
 
 - Patternico, background maker, I used this a few times in the past - [link <i class="ph ph-link"></i>](https://patternico.com/)
+
+- Layout Generator, this one is actively maintaned and made by Petrapixel - [link <i class="ph ph-link"></i>](https://petrapixel.neocities.org/coding/layout-generator)
 
 ---
 
