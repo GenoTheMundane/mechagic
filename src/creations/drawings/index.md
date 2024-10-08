@@ -1,6 +1,8 @@
 ---
 layout: t2
 title: Drawings
+ogd: An art gallery that has a buncha my drawings
+propd: An art gallery that has a buncha my drawings
 ---
 
 

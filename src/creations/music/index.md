@@ -1,6 +1,8 @@
 ---
 layout: t2
 title: Music
+ogd: Music I have been making with beepbox
+propd: Music I have been making with beepbox
 ---
 
 # my music
