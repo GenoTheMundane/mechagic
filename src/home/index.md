@@ -1,6 +1,8 @@
 ---
 layout: t2
 title: Home
+ogd: Home page where I talk a bit about myself
+propd: Home page where I talk a bit about myself
 ---
 # home
 ---
