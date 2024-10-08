@@ -1,6 +1,8 @@
 ---
 layout: t2
 title: Platforms
+ogd: Other websites I'm on that aren't this one
+propd: Other websites I'm on that aren't this one
 ---
 # platforms
 
