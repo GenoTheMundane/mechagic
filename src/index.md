@@ -10,6 +10,7 @@ propd: A very cool personal website that belongs to a cockroach that learned how
 ---
 
 ***click the image below to enter the website!***
+
 [<img src="/_img/1entrance.png" onclick="this.src = '/_img/1entrance_hover.png';" onmouseover="this.src = '/_img/1entrance_hover.png';"  onmouseout="this.src = '/_img/1entrance.png';" style="width:80%; border-radius:15px; border:2px solid var(--brdr);">](/home)
 
 ## Some Extra Stuff
