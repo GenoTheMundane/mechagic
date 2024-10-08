@@ -1,8 +1,8 @@
 ---
 layout: t2
 title: Resources
-ogd: Resources I found around the web for making your own website
-propd: Resources I found around the web for making your own website
+ogd: Resources I found around the web for making your own websitea
+propd: Resources I found around the web for making your own websitea
 ---
 # resources
 
