@@ -5,8 +5,8 @@ ogd: A very cool personal website that belongs to a cockroach that learned how t
 propd: A very cool personal website that belongs to a cockroach that learned how to type
 ---
 
-# g r e e t i n g s
-# u s e r s
+# greetings
+# users
 ---
 
 ***click the image below to enter the website!***
