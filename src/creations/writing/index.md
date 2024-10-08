@@ -1,6 +1,8 @@
 ---
 layout: t2
 title: Writing
+ogd: Stuff I wrote like my poetry and short stories
+propd: Stuff I wrote like my poetry and short stories
 ---
 
 # my writing
