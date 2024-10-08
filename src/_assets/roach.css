@@ -130,7 +130,7 @@
     main2 {
     background:var(--mn);
     width:70%;
-    height:525px;
+    height:75vh;
     text-align: center;
     overflow-y:auto;
     box-shadow:2px 2px 58px 0px var(--glw);
