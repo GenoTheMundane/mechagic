@@ -1,6 +1,8 @@
 ---
 layout: t1
 title: Website
+ogd: A very cool personal website that belongs to a cockroach that learned how to type
+propd: A very cool personal website that belongs to a cockroach that learned how to type
 ---
 
 # g r e e t i n g s
