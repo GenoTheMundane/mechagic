@@ -12,6 +12,9 @@ I have been attempting to make music on Beepbox recently. You can listen to all 
 
 ---
 
+Healing Dungeon | October 5 2024
+<iframe class="music" src="https://www.beepbox.co/player/#song=9n31s5k0l00e0ft2ma7g0jj07r1i0o432T1v1u30f0qwx10r511d08A9F4B0Q19e4Pb631E3b7626637T7v1u23f10q4q011d08H_RRtrAyAAAsArrh3IaE0T1v1u40f0qwx10r511d08A4F2B6Q0068Pf624E2b676T3v5ugef0q0x10l51d08S9aiiqjriHSDSSKIE1bab4x8j4N8i4Nc0018j4xci4N8j000h4h4h4h4h4g004h4h4h4h4h4000p21sBWqfaH2-AzAyeEzA2eAzBZh78At97mhRAt97ihWh7nihRkAttth7mhRAoarnRRQzlFlllpdlnm2CRZl0id82CRN1vji0"></iframe>
+
 Knocking At The Door | October 5 2024
 <iframe class="music" src="https://www.beepbox.co/player/#song=9n31s0k0l00e0bt2ma7g0fj07r1i0o432T1v1u16f0q00d03A0F0B0Q0000Pff00E1617T1v1u18f0q00d23A0F0B0Q0000Pf600E1617T1v1u25f0q0w10v3d08A5F4B0Q000dPc696E2b8638T3v1ugaf0qwx10i611d08SarABJSSSSSRJIAzE1b6b4ygPgy4P000icx8O4z80018O4z8icw004i4i4i4i000p22dFEYFiJ97c1724tV7ihR4tx7LlnRS4tlBBtx7mhR4uBnplpohSm4tdx7onWlltdh7nihRkR4ttp65dHUWKCL996CHmFGF1pJv33lVk7nuP4zBSlTGNlJtSo2nFHN2OCALJbVvjljinTBU0"></iframe>
 
