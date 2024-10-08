@@ -1,8 +1,8 @@
 ---
 layout: t2
 title: Platforms
-ogd: Other websites I'm on that aren't this oneaaaaaaaaaaaaaaaaaaaaaa
-propd: Other websites I'm on that aren't this oneaaaaaaaaaaaaaaaaaaaaaa
+ogd: Links to other internet places I'm active on
+propd: Links to other internet places I'm active on
 ---
 # platforms
 
