@@ -1,6 +1,8 @@
 ---
 layout: t2
 title: Creations
+ogd: Stuff I made, my writing, my music and my drawings
+propd: Stuff I made, my writing, my music and my drawings
 ---
 
 # creations
