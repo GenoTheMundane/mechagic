@@ -1,6 +1,8 @@
 ---
 layout: t2
 title: Fandomitry
+ogd: Rambling about things I like
+propd: Rambling about things I like
 ---
 # fandomitry
 ---
