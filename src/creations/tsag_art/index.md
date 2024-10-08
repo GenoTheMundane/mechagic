@@ -1,6 +1,8 @@
 ---
 layout: t2
 title: Concept Art
+ogd: Concept art for a little something I'm making
+propd: Concept art for a little something I'm making
 ---
 
 # concept art
