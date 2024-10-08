@@ -1,6 +1,8 @@
 ---
 layout: t2
 title: Misc
+ogd: Stuff that didn't really fit anywhere on the website
+propd: Stuff that didn't really fit anywhere on the website
 ---
 # miscallaeny
 ---
