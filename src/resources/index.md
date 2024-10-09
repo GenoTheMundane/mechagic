@@ -103,4 +103,4 @@ Stuff you can put on your website <i class="ph ph-folder-plus"></i>
 
 - Incremental Button, make number go up - [link <i class="ph ph-link"></i>](https://incr.easrng.net/)
 
-- Ayano's Comment Widget, cool guestbook tool - [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
+- HTML Journal, updates area for your website - [link <i class="ph ph-link"></i>](https://journal.miso.town/)
