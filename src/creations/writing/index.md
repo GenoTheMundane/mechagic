@@ -11,26 +11,26 @@ propd: Stuff I wrote like my poetry and short stories
 ## Short Stories And Concepts <i class="ph ph-notebook"></i>
 My short stories, I mostly make them up on the fly. I put my concepts here as well.
 
-<ol>
+<ul>
 {% for post in collections.story %}
 <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {% endfor %}
-</ol> 
+</ul> 
 
 ## Poetry <i class="ph ph-scroll"></i>
 All of these are experimental and some of these are pretentious
 
-<ol>
+<ul>
 {% for post in collections.poetry %}
 <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {% endfor %}
-</ol>
+</ul>
 
 ## Archives <i class="ph ph-archive"></i>
 Old stuff from my original writing blog on Tumblr, might rewrite IOTD.
 
-<ol>
+<ul>
 {% for post in collections.archive %}
 <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {% endfor %}
-</ol>
+</ul>
