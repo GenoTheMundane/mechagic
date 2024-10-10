@@ -34,29 +34,6 @@ The stuff that I used to make this website myself!
 
 ---
 
-## Webhosts <i class="ph ph-browsers"></i>
-I haven't used most of these myself, but I've heard some good things. Maybe in the future I'll add a pros and cons list for these things
-
-- Lexiqqq - [link <i class="ph ph-link"></i>](https://hosting.lexiqqq.com/)
-
-- Teacake - [link <i class="ph ph-link"></i>](https://teacake.org/)
-
-- Poyoweb - [link <i class="ph ph-link"></i>](https://poyoweb.poyo.study/)
-
-- Nekoweb - [link <i class="ph ph-link"></i>](https://nekoweb.org/)
-
-- Neocities - [link <i class="ph ph-link"></i>](https://neocities.org/)
-
-- Dorothea - [link <i class="ph ph-link"></i>](https://dorothea.us/)
-
-- Leprd Space - [link <i class="ph ph-link"></i>](https://leprd.space/)
-
-- Github Pages - [link <i class="ph ph-link"></i>](https://pages.github.com/)
-
-- Marigold Town - [link <i class="ph ph-link"></i>](https://marigold.town/)
-
----
-
 ## Tutorials <i class="ph ph-notepad"></i>
 A bunch of things that I read that helped me make this website
 
@@ -90,6 +67,7 @@ Colors, ASCII as well as some other stuff
 - Layout Generator, actively maintained and made by Petrapixel - [link <i class="ph ph-link"></i>](https://petrapixel.neocities.org/coding/layout-generator)
 
 - Patternico, background maker, I used this a few times in the past - [link <i class="ph ph-link"></i>](https://patternico.com/)
+
 ---
 
 ## Add-Ons <i class="ph ph-folder-plus"></i>
@@ -104,3 +82,28 @@ Stuff you can put on your website <i class="ph ph-folder-plus"></i>
 - Incremental Button, make number go up - [link <i class="ph ph-link"></i>](https://incr.easrng.net/)
 
 - HTML Journal, updates area for your website - [link <i class="ph ph-link"></i>](https://journal.miso.town/)
+
+---
+
+## Webhosts <i class="ph ph-browsers"></i>
+I haven't used most of these myself, but I've heard some good things. Maybe in the future I'll add a pros and cons list for these things
+
+- Lexiqqq - [link <i class="ph ph-link"></i>](https://hosting.lexiqqq.com/)
+
+- Teacake - [link <i class="ph ph-link"></i>](https://teacake.org/)
+
+- Poyoweb - [link <i class="ph ph-link"></i>](https://poyoweb.poyo.study/)
+
+- Nekoweb - [link <i class="ph ph-link"></i>](https://nekoweb.org/)
+
+- Neocities - [link <i class="ph ph-link"></i>](https://neocities.org/)
+
+- Dorothea - [link <i class="ph ph-link"></i>](https://dorothea.us/)
+
+- Pages.gay - [link <i class="ph ph-link"></i>](https://pages.gay/)
+
+- Leprd Space - [link <i class="ph ph-link"></i>](https://leprd.space/)
+
+- Github Pages - [link <i class="ph ph-link"></i>](https://pages.github.com/)
+
+- Marigold Town - [link <i class="ph ph-link"></i>](https://marigold.town/)
