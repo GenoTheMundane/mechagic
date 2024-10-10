@@ -7,8 +7,8 @@ propd: Stuff I made, my writing, my music and my drawings
 
 # creations
 
-<img class="tilt" src="/_img/4loremipsum.png" style="width:15%; margin-right:15px;"><img class="tilt" src="/_img/4loremipsum.png" style="width:15%; margin-right:15px;">
-<img class="tilt" src="/_img/4loremipsum.png" style="width:15%; margin-right:15px;">
+<img class="tilt" src="/_img/4stimuwrite.png" style="width:15%; margin-right:15px;"><img class="tilt" src="/_img/4stimuwrite.png" style="width:15%; margin-right:15px;">
+<img class="tilt" src="/_img/4stimuwrite.png" style="width:15%; margin-right:15px;">
 <div class="bx3">
     <h2>My Writing <i class="ph ph-pencil"></i> | <a style="color:var(--mn-fnt); text-decoration: overline underline;" href="writing"><i class="ph ph-link"></i></a></h2>
 </div>
