@@ -404,6 +404,7 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
                 </table>
             </div>
 
-            My very cool bugsona, this is what definitely I look like IRL (it's a cockroach)
+<br>
+            My very cool kinsona, this is what definitely I look like IRL (it's a cockroach)
 
               <center> <img src="/_img/1sonaref.png" style="width: 75%;"> </center>
