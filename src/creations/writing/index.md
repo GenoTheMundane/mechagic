@@ -12,25 +12,25 @@ propd: Stuff I wrote like my poetry and short stories
 My short stories, I mostly make them up on the fly. I put my concepts here as well.
 
 <ul>
-{% for post in collections.story %}
-<li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-{% endfor %}
-</ul> 
+{%- for post in collections.story reversed -%}
+  <li>{{ post.data.title }}</li>
+{%- endfor -%}
+</ul>
 
 ## Poetry <i class="ph ph-scroll"></i>
 All of these are experimental and some of these are pretentious
 
 <ul>
-{% for post in collections.poetry %}
-<li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-{% endfor %}
+{%- for post in collections.poetry reversed -%}
+  <li>{{ post.data.title }}</li>
+{%- endfor -%}
 </ul>
 
 ## Archives <i class="ph ph-archive"></i>
 Old stuff from my original writing blog on Tumblr, might rewrite IOTD.
 
 <ul>
-{% for post in collections.archive %}
-<li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-{% endfor %}
+{%- for post in collections.archive reversed -%}
+  <li>{{ post.data.title }}</li>
+{%- endfor -%}
 </ul>
