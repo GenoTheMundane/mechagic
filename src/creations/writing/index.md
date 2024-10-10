@@ -13,7 +13,7 @@ My short stories, I mostly make them up on the fly. I put my concepts here as we
 
 <ul>
 {%- for post in collections.story reversed -%}
-  <li>{{ post.data.title }}</li>
+  <li><a href="{{ post.url }}">{{ post.data.title }}</li>
 {%- endfor -%}
 </ul>
 
@@ -22,7 +22,7 @@ All of these are experimental and some of these are pretentious
 
 <ul>
 {%- for post in collections.poetry reversed -%}
-  <li>{{ post.data.title }}</li>
+  <li><a href="{{ post.url }}">{{ post.data.title }}</li>
 {%- endfor -%}
 </ul>
 
@@ -31,6 +31,6 @@ Old stuff from my original writing blog on Tumblr, might rewrite IOTD.
 
 <ul>
 {%- for post in collections.archive reversed -%}
-  <li>{{ post.data.title }}</li>
+  <li><a href="{{ post.url }}">{{ post.data.title }}</li>
 {%- endfor -%}
 </ul>
