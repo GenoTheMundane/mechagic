@@ -26,7 +26,7 @@ A buncha good stuff that I have watched and enjoyed
         <h3>Unorthodox Kitten</h3>
 
 <b>Synopsis:</b>
-It is beyond the point of no return, the machine will not die. Finiteness is only and external reality and existence no longer exists. The infinity, singularity, and the rapture are all happening at the same time.
+It is beyond the point of no return, the machine will not die. Finiteness is only an external reality and existence no longer exists. The infinity, singularity, and the rapture are all happening at the same time.
 
 [All Episodes <i class="ph ph-link"></i>](https://www.youtube.com/@Unorthodox_Kitten/playlists)
     </div>
