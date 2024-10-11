@@ -15,6 +15,22 @@ Why is this called ***fandomitry*** instead of an actual word? Well I combined t
 
 A buncha good stuff that I have watched and enjoyed
 
+   <div class="bx1">
+
+     <div class="crnlft">
+         <center><img src="/_img/2unorthodoxkitten.jpg" style="width:75%; border-radius:15px;"></center>
+         <b>Content Warnings:</b>
+ `Eyestrain, flashing lights, unreality and emergency sirens`
+     </div>
+     <div class="crnrht">
+        <h3>Unorthodox Kitten</h3>
+
+<b>Synopsis:</b>
+It is beyond the point of no return, the machine will not die. Finiteness is only and external reality and existence no longer exists. The infinity, singularity, and the rapture are all happening at the same time.
+
+[All Episodes <i class="ph ph-link"></i>](https://www.youtube.com/@Unorthodox_Kitten/playlists)
+    </div>
+ </div>
 
    <div class="bx1">
 
