@@ -5,7 +5,7 @@
     /* these are variables that are being used in the code
     these tended to confuse some people,so I only kept
     the images as variables */:root {
-    --bg-img:url('/_img/1bg.png');
+    --bg-img:url('/_img/1bg.webp');
     --brdr:#007FFF;
     --glw:rgba(0,127,255,0.30);
     --bg:#08031A;
