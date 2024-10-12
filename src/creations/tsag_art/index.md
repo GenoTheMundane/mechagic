@@ -30,144 +30,126 @@ Warning for body horror as well as gore on most of the tabs
                 <div id="scr" class="tabcontent">
     <div class="gallery">
         <p>Scrapped concepts that I fiddled around with and were present in both the original story and the rewrite</p>
-        <a href="/_con/1starry.png" data-caption="The Stars that gaze upon us, a scrapped species seen in the original version of the story">
-            <img class="thumb" src="/_con/1starry.png" alt="The Stars that gaze upon us, a scrapped species seen in the original version of the story">
+        <a href="/_con/1starry.webp" data-caption="The Stars that gaze upon us, a scrapped species seen in the original version of the story">
+            <img class="thumb" src="/_con/1starry.webp" alt="The Stars that gaze upon us, a scrapped species seen in the original version of the story">
         </a>
-        <a href="/_con/1translator.png" data-caption="To translate the previous image">
-            <img class="thumb" src="/_con/1translator.png" alt="To translate the previous image">
+        <a href="/_con/1translator.webp" data-caption="To translate the previous image">
+            <img class="thumb" src="/_con/1translator.webp" alt="To translate the previous image">
         </a>
-        <a href="/_con/1star_angel.png" data-caption="One of the many designs for the stars">
-            <img class="thumb" src="/_con/1star_angel.png" alt="One of the many designs for the stars">
+        <a href="/_con/1star_angel.webp" data-caption="One of the many designs for the stars">
+            <img class="thumb" src="/_con/1star_angel.webp" alt="One of the many designs for the stars">
         </a>
-        <a href="/_con/1world_ender.png" data-caption="Klias was going to end the world in the original story, this has been changed in the newer rendition">
-            <img class="thumb" src="/_con/1world_ender.png" alt="Klias was going to end the world in the original story, this has been changed in the newer rendition">
+        <a href="/_con/1world_ender.webp" data-caption="Klias was going to end the world in the original story, this has been changed in the newer rendition">
+            <img class="thumb" src="/_con/1world_ender.webp" alt="Klias was going to end the world in the original story, this has been changed in the newer rendition">
         </a>
-        <a href="/_con/1fetal.png" data-caption="The finalized design for the Stars curled up in a fetal position">
-            <img class="thumb" src="/_con/1fetal.png" alt="The finalized design for the Stars curled up in a fetal position">
+        <a href="/_con/1fetal.webp" data-caption="The finalized design for the Stars curled up in a fetal position">
+            <img class="thumb" src="/_con/1fetal.webp" alt="The finalized design for the Stars curled up in a fetal position">
         </a>
-        <a href="/_con/1stander.png" data-caption="A Star standing over you">
-            <img class="thumb" src="/_con/1stander.png" alt="A Star standing over you">
+        <a href="/_con/1stander.webp" data-caption="A Star standing over you">
+            <img class="thumb" src="/_con/1stander.webp" alt="A Star standing over you">
         </a>
-        <a href="/_con/1gone.png" data-caption=" Their Arms Were Cut Off. Their Legs Were Cut Off. Their Ears Were Cut Off. ">
-            <img class="thumb" src="/_con/1gone.png" alt=" Their Arms Were Cut Off. Their Legs Were Cut Off. Their Ears Were Cut Off. ">
+        <a href="/_con/1gone.webp" data-caption=" Their Arms Were Cut Off. Their Legs Were Cut Off. Their Ears Were Cut Off. ">
+            <img class="thumb" src="/_con/1gone.webp" alt=" Their Arms Were Cut Off. Their Legs Were Cut Off. Their Ears Were Cut Off. ">
         </a>
         </div>
 </div>
                 <div id="cha" class="tabcontent">
 <div class="gallery">
     <p>Basically sketching out what the characters are going to look like and such</p>
-        <a href="/_con/2klias_bod.png" data-caption="Trying to get a feel for what Klias's body type is">
-            <img class="thumb" src="/_con/2klias_bod.png" alt="Trying to get a feel for what Klias's body type is">
+        <a href="/_con/2klias_face.webp" data-caption="Sketched out multiple face shapes for Klias, here are all of them combined">
+            <img class="thumb" src="/_con/2klias_face.webp" alt="Sketched out multiple face shapes for Klias, here are all of them combined">
         </a>
-        <a href="/_con/2klias_face.png" data-caption="Sketched out multiple face shapes for Klias, here are all of them combined">
-            <img class="thumb" src="/_con/2klias_face.png" alt="Sketched out multiple face shapes for Klias, here are all of them combined">
+        <a href="/_con/2bored.webp" data-caption="Just a little doodle of the guy">
+            <img class="thumb" src="/_con/2bored.webp" alt="Just a little doodle of the guy">
         </a>
-        <a href="/_con/2bored.png" data-caption="Just a little doodle of the guy">
-            <img class="thumb" src="/_con/2bored.png" alt="Just a little doodle of the guy">
+        <a href="/_con/2godless.webp" data-caption="Trying to find some of the vibes here">
+            <img class="thumb" src="/_con/2godless.webp" alt="Trying to find some of the vibes here">
         </a>
-        <a href="/_con/2godless.png" data-caption="Trying to find some of the vibes here">
-            <img class="thumb" src="/_con/2godless.png" alt="Trying to find some of the vibes here">
+        <a href="/_con/2benny.webp" data-caption="Benny Hartz! He showed up in the first entry of the original and was kind of an asshole<br>He's much nicer now, I feel sorry for what I'm going to do to him">
+            <img class="thumb" src="/_con/2benny.webp" alt="Benny Hartz! He showed up in the first entry of the original and was kind of an asshole<br>He's much nicer now, I feel sorry for what I'm going to do to him">
         </a>
-        <a href="/_con/2twinklol.png" data-caption="Again trying to figure out the way Klias' face works, nothin much">
-            <img class="thumb" src="/_con/2twinklol.png" alt="Again trying to figure out the way Klias' face works, nothin much">
+        <a href="/_con/2drive.webp" data-caption="Never pick up a naked nonbinary gnc person on the side of the road, worst mistake of my life!!! ">
+            <img class="thumb" src="/_con/2drive.webp" alt="Never pick up a naked nonbinary gnc person on the side of the road, worst mistake of my life!!! ">
         </a>
-        <a href="/_con/2benny.png" data-caption="Benny Hartz! He showed up in the first entry of the original and was kind of an asshole<br>He's much nicer now, I feel sorry for what I'm going to do to him">
-            <img class="thumb" src="/_con/2benny.png" alt="Benny Hartz! He showed up in the first entry of the original and was kind of an asshole<br>He's much nicer now, I feel sorry for what I'm going to do to him">
+        <a href="/_con/2benatomyprac.webp" data-caption="Practicing how to draw Benny's body type">
+            <img class="thumb" src="/_con/2benatomyprac.webp" alt="Practicing how to draw Benny's body type">
         </a>
-        <a href="/_con/2blush.png" data-caption="Mainly just me doodling his face and stuff">
-            <img class="thumb" src="/_con/2blush.png" alt="Mainly just me doodling his face and stuff">
+        <a href="/_con/2bailey.webp" data-caption="The average spooky child, named Bailey">
+            <img class="thumb" src="/_con/2bailey.webp" alt="The average spooky child, named Bailey">
         </a>
-        <a href="/_con/2drive.png" data-caption="Never pick up a naked nonbinary gnc person on the side of the road, worst mistake of my life!!! ">
-            <img class="thumb" src="/_con/2drive.png" alt="Never pick up a naked nonbinary gnc person on the side of the road, worst mistake of my life!!! ">
+        <a href="/_con/2bg_prac.webp" data-caption="Sam the hunter, Marley and Bailey - the friends">
+            <img class="thumb" src="/_con/2bg_prac.webp" alt="Sam the hunter, Marley and Bailey - the friends">
         </a>
-        <a href="/_con/2stare.png" data-caption="Doing expressions">
-            <img class="thumb" src="/_con/2stare.png" alt="Doing expressions">
+        <a href="/_con/2entertherift.webp" data-caption="Marley the explorer">
+            <img class="thumb" src="/_con/2entertherift.webp" alt="Marley the explorer">
         </a>
-        <a href="/_con/2starebutsad.png" data-caption="More expressions">
-            <img class="thumb" src="/_con/2starebutsad.png" alt="More expressions">
+        <a href="/_con/2missing.webp" data-caption="Bailey the mannequin, Sam the mourner">
+            <img class="thumb" src="/_con/2missing.webp" alt="Bailey the mannequin, Sam the mourner">
         </a>
-        <a href="/_con/2benatomyprac.png" data-caption="Practicing how to draw Benny's body type">
-            <img class="thumb" src="/_con/2benatomyprac.png" alt="Practicing how to draw Benny's body type">
+        <a href="/_con/2miz_sketch.webp" data-caption="A sketch page full of concept art for MIZ! Full name: Meta Information Zone">
+            <img class="thumb" src="/_con/2miz_sketch.webp" alt="A sketch page full of concept art for MIZ! <br> Full name: Meta Information Zone">
         </a>
-        <a href="/_con/2bailey.png" data-caption="The average spooky child, named Bailey">
-            <img class="thumb" src="/_con/2bailey.png" alt="The average spooky child, named Bailey">
+        <a href="/_con/2mizbrain.webp" data-caption="MIZ's insides, absolutely disgusting">
+            <img class="thumb" src="/_con/2mizbrain.webp" alt="MIZ's insides, absolutely disgusting">
         </a>
-        <a href="/_con/2bg_prac.png" data-caption="Sam the hunter, Marley and Bailey - the friends">
-            <img class="thumb" src="/_con/2bg_prac.png" alt="Sam the hunter, Marley and Bailey - the friends">
+        <a href="/_con/2tomabod.webp" data-caption="Toma the sentient tumor, and lookie here! It appears that she can shapeshift">
+            <img class="thumb" src="/_con/2tomabod.webp" alt="Toma the sentient tumor, and lookie here! It appears that she can shapeshift">
         </a>
-        <a href="/_con/2entertherift.png" data-caption="Marley the explorer">
-            <img class="thumb" src="/_con/2entertherift.png" alt="Marley the explorer">
+        <a href="/_con/2tomabodagain.webp" data-caption="Figuring out how to draw her body more">
+            <img class="thumb" src="/_con/2tomabodagain.webp" alt="Figuring out how to draw her body more">
         </a>
-        <a href="/_con/2missing.png" data-caption="Bailey the mannequin, Sam the mourner">
-            <img class="thumb" src="/_con/2missing.png" alt="Bailey the mannequin, Sam the mourner">
+        <a href="/_con/2terrarium.webp" data-caption="She's in her enclosure">
+            <img class="thumb" src="/_con/2terrarium.webp" alt="She's in her enclosure">
         </a>
-        <a href="/_con/2miz_sketch.png" data-caption="A sketch page full of concept art for MIZ! Full name: Meta Information Zone">
-            <img class="thumb" src="/_con/2miz_sketch.png" alt="A sketch page full of concept art for MIZ! <br> Full name: Meta Information Zone">
+        <a href="/_con/2austin.webp" data-caption="Austin holding Toma! What a good father">
+            <img class="thumb" src="/_con/2austin.webp" alt="Austin holding Toma! What a good father">
         </a>
-        <a href="/_con/2mizbrain.png" data-caption="MIZ's insides, absolutely disgusting">
-            <img class="thumb" src="/_con/2mizbrain.png" alt="MIZ's insides, absolutely disgusting">
-        </a>
-        <a href="/_con/2toma.png" data-caption="Meet Toma! The sentient tumor!">
-            <img class="thumb" src="/_con/2toma.png" alt="Meet Toma! The sentient tumor!">
-        </a>
-        <a href="/_con/2tomabod.png" data-caption="Lookie here! It appears that she can shapeshift">
-            <img class="thumb" src="/_con/2tomabod.png" alt="Lookie here! It appears that she can shapeshift">
-        </a>
-        <a href="/_con/2tomabodagain.png" data-caption="Figuring out how to draw her body more">
-            <img class="thumb" src="/_con/2tomabodagain.png" alt="Figuring out how to draw her body more">
-        </a>
-        <a href="/_con/2terrarium.png" data-caption="She's in her enclosure">
-            <img class="thumb" src="/_con/2terrarium.png" alt="She's in her enclosure">
-        </a>
-        <a href="/_con/2austin.png" data-caption="Austin holding Toma! What a good father">
-            <img class="thumb" src="/_con/2austin.png" alt="Austin holding Toma! What a good father">
-        </a>
-        <a href="/_con/2oracle.png" data-caption="People exploring the very being that opened the rift, also known as Oracle">
-            <img class="thumb" src="/_con/2oracle.png" alt="People exploring the very being that opened the rift, also known as Oracle">
+        <a href="/_con/2oracle.webp" data-caption="People exploring the very being that opened the rift, also known as Oracle">
+            <img class="thumb" src="/_con/2oracle.webp" alt="People exploring the very being that opened the rift, also known as Oracle">
         </a>
     </div>
 </div>
                 <div id="mon" class="tabcontent">
 <div class="gallery">
-        <a href="/_con/3mannequin.png" data-caption="The first monster I came up with for this setting. <br> What you are seeing here is a mannequin before it assimilated a human">
-            <img class="thumb" src="/_con/3mannequin.png" alt="The first monster I came up with for this setting. <br> What you are seeing here is a mannequin before it assimilated a human">
+        <a href="/_con/3mannequin.webp" data-caption="The first monster I came up with for this setting. <br> What you are seeing here is a mannequin before it assimilated a human">
+            <img class="thumb" src="/_con/3mannequin.webp" alt="The first monster I came up with for this setting. <br> What you are seeing here is a mannequin before it assimilated a human">
         </a>
-        <a href="/_con/3treecker.png" data-caption="Trees with eyes on them that are carnivorous, they use the screams of past victims to lure people in, takes heavy inspiration from the bear in Annihilation 2018">
-            <img class="thumb" src="/_con/3treecker.png" alt="Trees with eyes on them that are carnivorous, they use the screams of past victims to lure people in, takes heavy inspiration from the bear in Annihilation 2018">
+        <a href="/_con/3treecker.webp" data-caption="Trees with eyes on them that are carnivorous, they use the screams of past victims to lure people in, takes heavy inspiration from the bear in Annihilation 2018">
+            <img class="thumb" src="/_con/3treecker.webp" alt="Trees with eyes on them that are carnivorous, they use the screams of past victims to lure people in, takes heavy inspiration from the bear in Annihilation 2018">
         </a>
-        <a href="/_con/3dog.png" data-caption="Not a normal dog">
-            <img class="thumb" src="/_con/3dog.png" alt="Not a normal dog">
+        <a href="/_con/3dog.webp" data-caption="Not a normal dog">
+            <img class="thumb" src="/_con/3dog.webp" alt="Not a normal dog">
         </a>
-        <a href="/_con/3theshell.png" data-caption="It came from the rift approx 50 years ago, all that's left of it is the shell">
-            <img class="thumb" src="/_con/3theshell.png" alt="It came from the rift approx 50 years ago, all that's left of it is the shell
+        <a href="/_con/3theshell.webp" data-caption="It came from the rift approx 50 years ago, all that's left of it is the shell">
+            <img class="thumb" src="/_con/3theshell.webp" alt="It came from the rift approx 50 years ago, all that's left of it is the shell
 ">
         </a>
-        <a href="/_con/3doglore.png" data-caption="Monsters that pretend to be injured dogs to lure you in">
-            <img class="thumb" src="/_con/3doglore.png" alt="Monsters that pretend to be injured dogs to lure you in">
+        <a href="/_con/3doglore.webp" data-caption="Monsters that pretend to be injured dogs to lure you in">
+            <img class="thumb" src="/_con/3doglore.webp" alt="Monsters that pretend to be injured dogs to lure you in">
         </a>
     </div>
 </div>
                 <div id="sco" class="tabcontent">
     <p>Short noncanonical comics made to fleshout the characters</p>
     <div class="gallery">
-        <a href="/_con/4_spokenword_1.png" data-caption="Dialogue from ''The Rabbi's Cat''">
-            <img class="thumb" src="/_con/4_spokenword_1.png" alt="Dialogue from ''The Rabbi's Cat''">
+        <a href="/_con/4_spokenword_1.webp" data-caption="Dialogue from ''The Rabbi's Cat''">
+            <img class="thumb" src="/_con/4_spokenword_1.webp" alt="Dialogue from ''The Rabbi's Cat''">
         </a>
-        <a href="/_con/4_spokenword_2.png" data-caption="Dialogue from ''The Rabbi's Cat">
-            <img class="thumb" src="/_con/4_spokenword_2.png" alt="Dialogue from ''The Rabbi's Cat">
+        <a href="/_con/4_spokenword_2.webp" data-caption="Dialogue from ''The Rabbi's Cat">
+            <img class="thumb" src="/_con/4_spokenword_2.webp" alt="Dialogue from ''The Rabbi's Cat">
         </a>
     </div>
         <p>''her'' and ''he'' both refer to Sam, the person in the second drawing. I haven't exactly chosen what pronouns I wanted to use for Sam yet at this time. However, I have come to a decision, Rot/Rotself</p>
         <br><hr><br>
         <div class="gallery">
-        <a href="/_con/4_oneday_1.png" data-caption="Dialogue from ''The Rabbi's Cat">
-            <img class="thumb" src="/_con/4_oneday_1.png" alt="Dialogue from ''The Rabbi's Cat">
+        <a href="/_con/4_oneday_1.webp" data-caption="Dialogue from ''The Rabbi's Cat">
+            <img class="thumb" src="/_con/4_oneday_1.webp" alt="Dialogue from ''The Rabbi's Cat">
         </a>
-        <a href="/_con/4_oneday_2.png" data-caption="Dialogue from ''The Rabbi's Cat">
-            <img class="thumb" src="/_con/4_oneday_2.png" alt="Dialogue from ''The Rabbi's Cat">
+        <a href="/_con/4_oneday_2.webp" data-caption="Dialogue from ''The Rabbi's Cat">
+            <img class="thumb" src="/_con/4_oneday_2.webp" alt="Dialogue from ''The Rabbi's Cat">
         </a>
-        <a href="/_con/4_oneday_3.png" data-caption="Dialogue from ''The Rabbi's Cat">
-            <img class="thumb" src="/_con/4_oneday_3.png" alt="Dialogue from ''The Rabbi's Cat">
+        <a href="/_con/4_oneday_3.webp" data-caption="Dialogue from ''The Rabbi's Cat">
+            <img class="thumb" src="/_con/4_oneday_3.webp" alt="Dialogue from ''The Rabbi's Cat">
         </a>
         <p>I have put a lot of work into the color symbolism of this comic, but I won't go indepth here, maybe in the future</p>
     </div>
