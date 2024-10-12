@@ -58,6 +58,8 @@ Colors, ASCII as well as some other stuff
 
 - Beepbox, make music on your browser - [link <i class="ph ph-link"></i>](https://www.beepbox.co/)
 
+- Squoosh, convert image file types to another - [link <i class="ph ph-link"></i>](https://squoosh.app)
+
 - Ascii archive, categorized by the ASCII's theme - [link <i class="ph ph-link"></i>](https://www.asciiart.eu/)
 
 - Ezgif, not just gifs! It can be other stuff as well - [link <i class="ph ph-link"></i>](https://ezgif.com/)
