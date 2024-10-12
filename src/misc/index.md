@@ -11,26 +11,26 @@ propd: Stuff that didn't really fit anywhere on the website
 
 All of these were made for this website!, you can see two of them on the right sidebar!
 <div class="gallery">
-        <a href="/_img/1favicon.png" data-caption="The little icon on the corner of the tab">
-            <img class="thumb" src="/_img/1favicon.png" alt="The little icon on the corner of the tab">
+        <a href="/_img/1favicon.webp" data-caption="The little icon on the corner of the tab">
+            <img class="thumb" src="/_img/1favicon.webp" alt="The little icon on the corner of the tab">
         </a>
-        <a href="/_img/1bg.png" data-caption="The background image that is repeated a bunch">
-            <img class="thumb" src="/_img/1bg.png" alt="The background image that is repeated a bunch">
+        <a href="/_img/1bg.webp" data-caption="The background image that is repeated a bunch">
+            <img class="thumb" src="/_img/1bg.webp" alt="The background image that is repeated a bunch">
         </a>
-        <a href="/_img/1entrance.png" data-caption="The entrance image...">
-            <img class="thumb" src="/_img/1entrance.png" alt="The entrance image...">
+        <a href="/_img/1entrance.webp" data-caption="The entrance image...">
+            <img class="thumb" src="/_img/1entrance.webp" alt="The entrance image...">
         </a>
-        <a href="/_img/1entrance_hover.png" data-caption="...That has a spooky twist when you hover over it!">
-            <img class="thumb" src="/_img/1entrance_hover.png" alt="...That has a spooky twist when you hover over it!">
+        <a href="/_img/1entrance_hover.webp" data-caption="...That has a spooky twist when you hover over it!">
+            <img class="thumb" src="/_img/1entrance_hover.webp" alt="...That has a spooky twist when you hover over it!">
         </a>
-        <a href="/_img/1guestbook.png" data-caption="Sign the guestbook for uhh.... coolness points!">
-            <img class="thumb" src="/_img/1guestbook.png" alt="Sign the guestbook for uhh.... coolness points!">
+        <a href="/_img/1guestbook.webp" data-caption="Sign the guestbook for uhh.... coolness points!">
+            <img class="thumb" src="/_img/1guestbook.webp" alt="Sign the guestbook for uhh.... coolness points!">
         </a>
-        <a href="/_img/1button.png" data-caption="Link to me to reduce your uncoolness points!">
-            <img class="thumb" src="/_img/1button.png" alt="Link to me to reduce your uncoolness points!">
+        <a href="/_img/1button.webp" data-caption="Link to me to reduce your uncoolness points!">
+            <img class="thumb" src="/_img/1button.webp" alt="Link to me to reduce your uncoolness points!">
         </a>
-        <a href="/_img/1pagenotfound.png" data-caption="Drawing for the 404 page">
-            <img class="thumb" src="/_img/1pagenotfound.png" alt="Drawing for the 404 page">
+        <a href="/_img/1pagenotfound.webp" data-caption="Drawing for the 404 page">
+            <img class="thumb" src="/_img/1pagenotfound.webp" alt="Drawing for the 404 page">
         </a>
     </div>
 

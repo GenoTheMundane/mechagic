@@ -11,14 +11,14 @@ propd: A very cool personal website that belongs to a cockroach that learned how
 
 ***click the image below to enter the website!***
 
-[<img src="/_img/1entrance.png" onclick="this.src = '/_img/1entrance_hover.png';" onmouseover="this.src = '/_img/1entrance_hover.png';"  onmouseout="this.src = '/_img/1entrance.png';" style="width:80%; border-radius:15px; border:2px solid var(--brdr);">](/home)
+[<img src="/_img/1entrance.webp" onclick="this.src = '/_img/1entrance_hover.webp;" onmouseover="this.src = '/_img/1entrance_hover.webp';"  onmouseout="this.src = '/_img/1entrance.webp';" style="width:80%; border-radius:15px; border:2px solid var(--brdr);">](/home)
 
 ## Some Extra Stuff
 <div class="bx1">
   <div class="crnlft">
 Have a button that I made:
 
-[<img class="bton" src="/_img/1button.png">](/_img/1button.png)
+<img class="bton" src="/_img/1button.webp">
 
 <textarea class="copyButton"><a href="https://mechagic.lexiqqq.com/" target="_blank"><img src="https://i.ibb.co/wyKpKxK/1button.png"></a></textarea>
 </div>
@@ -26,7 +26,7 @@ Have a button that I made:
 <div class="crnrht">
     Sign my guestbook!
 
-[<img src="/_img/1guestbook.png" style="width:50%; border-radius:15px; border:2px solid var(--brdr);">](/guestbook)
+[<img src="/_img/1guestbook.webp" style="width:50%; border-radius:15px; border:2px solid var(--brdr);">](/guestbook)
 
   </div>
 </div>
