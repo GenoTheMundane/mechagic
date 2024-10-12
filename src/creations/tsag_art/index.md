@@ -124,14 +124,14 @@ Warning for body horror as well as gore on most of the tabs
             <img class="thumb" src="/_con/3theshell.webp" alt="It came from the rift approx 50 years ago, all that's left of it is the shell
 ">
         </a>
-        <a href="/_con/3doglore_1.webp" data-caption="Monsters that pretend to be injured dogs to lure you in">
-            <img class="thumb" src="/_con/3doglore_1.webp" alt="Monsters that pretend to be injured dogs to lure you in">
+        <a href="/_con/3doglore_1.webp" data-caption="Monsters that pretend to be injured dogs to lure you in known as an Eninac">
+            <img class="thumb" src="/_con/3doglore_1.webp" alt="Monsters that pretend to be injured dogs to lure you in known as an Eninac">
         </a>
-        <a href="/_con/3doglore_2.webp" data-caption="Monsters that pretend to be injured dogs to lure you in">
-            <img class="thumb" src="/_con/3doglore_2.webp" alt="Monsters that pretend to be injured dogs to lure you in">
+        <a href="/_con/3doglore_2.webp" data-caption="On the left shows a disguised Eninac. The right shows its fake guts, or rather its true teeth">
+            <img class="thumb" src="/_con/3doglore_2.webp" alt="On the left shows a disguised Eninac. The right shows its fake guts, or rather its true teeth">
         </a>
-        <a href="/_con/3doglore_3.webp" data-caption="Monsters that pretend to be injured dogs to lure you in">
-            <img class="thumb" src="/_con/3doglore_3.webp" alt="Monsters that pretend to be injured dogs to lure you in">
+        <a href="/_con/3doglore_3.webp" data-caption="All Eninacs have a split down the middle seperating their halves, each half is that of a different breed of dog">
+            <img class="thumb" src="/_con/3doglore_3.webp" alt="All Eninacs have a split down the middle seperating their halves, each half is that of a different breed of dog">
         </a>
     </div>
 </div>
