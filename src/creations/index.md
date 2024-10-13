@@ -9,7 +9,7 @@ propd: Stuff I made, my writing, my music and my drawings
 
 If you like any of my stuff, consider supporting me on [KoFi <i class="ph ph-link"></i>](https://ko-fi.com/mechagic)
 
-I'll make a page for stuff I made for money soon ;}
+I'll make a page for stuff I made professionally ;}
 
 <img class="tilt" src="/_img/4ibispaintx.webp" style="width:15%; margin-right:15px;"><img class="tilt" src="/_img/4ibispaintx.webp" style="width:15%; margin-right:15px;">
 <img class="tilt" src="/_img/4ibispaintx.webp" style="width:15%; margin-right:15px;">
