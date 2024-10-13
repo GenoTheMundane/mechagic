@@ -8,7 +8,7 @@ propd: An art gallery that has a buncha my drawings
 
 # my drawings 
 
-A bunch of my art, some original stuff mixed with some fanart. All of which are categorized by date by yours truly. If you like my art, consider supporting me on [KoFi <i class="ph ph-link"></i>](https://ko-fi.com/mechagic)
+A bunch of my art, some original stuff mixed with some fanart. All of which are categorized by date by yours truly.
     <div class="tab">
         <button class="tablinks" onclick="openCity(event, '2024')" id="defaultOpen">
         2024

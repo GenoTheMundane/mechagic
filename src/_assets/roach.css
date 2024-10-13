@@ -207,7 +207,7 @@
     border:2px solid var(--brdr);
     }
     img.tilt {
-    transform: rotate(20deg);
+    transform: rotate(-20deg);
     float:right;
     border-radius:15px;
     border:2px solid var(--brdr); 
