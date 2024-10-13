@@ -18,7 +18,7 @@ A bunch of my art, some original stuff mixed with some fanart. All of which are 
        </button>    </div>
                 <div id="2024" class="tabcontent">
 <div class="gallery">
-        <a href="/_art/oct102024.webp" data-caption="Master of The Tower | afacelessdream on twitter |October 10 2024">
+        <a href="/_art/oct102024.webp" data-caption="Master of The Tower | afacelessdream on twitter | October 10 2024">
             <img class="thumb" src="/_art/oct102024.webp" alt="Master of The Tower | afacelessdream on twitter |October 10 2024">
         </a>
         <a href="/_art/oct092024.webp" data-caption="Roleplay lore | October 9 2024">
