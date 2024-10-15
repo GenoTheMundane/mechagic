@@ -9,6 +9,8 @@ propd: An art gallery that has a bunch of my drawings
 # my drawings 
 
 A bunch of my art, some original stuff mixed with some fanart. All of which are categorized by date by yours truly.
+
+Interested in more story focused stuff? I have a good amount of concept art for a personal project I'm working on [here <i class="ph ph-link"></i>](/creations/tsag_art/)
     <div class="tab">
         <button class="tablinks" onclick="openCity(event, '2024')" id="defaultOpen">
         2024
