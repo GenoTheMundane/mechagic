@@ -20,7 +20,7 @@ The stuff that I used to make this website myself!
 
 - Eleventy, the SSG that I'm using right now! - [link <i class="ph ph-link"></i>](https://www.11ty.dev/)
 
-- Ayano's Comment Widget, used on the guestbook - [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
+- Ayano's Comment Widget, used on the guestbook - [link <i class="ph ph-link"></i>](https://virtualobserver.moe/ayano/comment-widget)
 
 - Dithermark, for the dithering on some of the images - [link <i class="ph ph-link"></i>](https://app.dithermark.com/)
 
