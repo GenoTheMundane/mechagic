@@ -83,7 +83,7 @@ Stuff you can put on your website <i class="ph ph-folder-plus"></i>
 
 - Incremental Button, make number go up - [link <i class="ph ph-link"></i>](https://incr.easrng.net/)
 
-- HTML Journal, updates area for your website - [link <i class="ph ph-link"></i>](https://journal.miso.town/)
+- HTML Journal, blogging tool for your website - [link <i class="ph ph-link"></i>](https://journal.miso.town/)
 
 ---
 
