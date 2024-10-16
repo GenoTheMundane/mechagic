@@ -90,6 +90,8 @@ Stuff you can put on your website <i class="ph ph-folder-plus"></i>
 ## Webhosts <i class="ph ph-browsers"></i>
 I haven't used most of these myself, but I've heard some good things. Maybe in the future I'll add a pros and cons list for these things
 
+- Frii.site - [link  <i class="ph ph-link"></i>](https://www.frii.site/)
+
 - Lexiqqq - [link <i class="ph ph-link"></i>](https://hosting.lexiqqq.com/)
 
 - Teacake - [link <i class="ph ph-link"></i>](https://teacake.org/)
