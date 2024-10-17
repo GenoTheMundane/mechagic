@@ -22,7 +22,7 @@ All of these are experimental and some of these are pretentious
 
 <ul>
 {%- for post in collections.poetry reversed -%}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  <li><a href="{{ post.url }}">{{ post.data.title}}</a></li>
 {%- endfor -%}
 </ul>
 
