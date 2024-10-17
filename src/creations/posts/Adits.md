@@ -2,7 +2,7 @@
 layout: t3.njk
 title: Adits
 tags:
-    - poetry
+    - story
 ---
 <style>
    p{
