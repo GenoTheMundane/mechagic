@@ -4,6 +4,7 @@ title: Adits
 tags:
     - poetry
 ---
+
 <style>
    p{
     text-align: center;
@@ -13,6 +14,7 @@ tags:
     text-align: center;
    }
 </style>
+
 ---
 
 Putting out the fire.
