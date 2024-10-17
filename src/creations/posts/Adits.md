@@ -21,11 +21,11 @@ Putting out the fire.
 
 The endless dawn consumes me and the stars stare at me from above.
 <br><br><br>
-I have earned the gods' temper.
+I have earned the God's temper.
 
 I have seen them without their mourning doves.
 <br><br><br>
-And with the mourning doves are far away.
+And with the mourning doves far away.
 
 The ravens come in to hinder
 <br><br><br>
@@ -39,7 +39,7 @@ Mathematically beyond my comprehension, I see how their eyes are profoundly infi
 <br><br><br>
 Plucking the datum that grows beyond their empyrean den.
 
-The gods proceeding to make something derivative.
+My God proceeding to make something derivative.
 <br><br><br>
 With the datum harvest and the derivative unoriginal.
 
