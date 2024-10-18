@@ -26,6 +26,9 @@ All of these were made for this website!, you can see two of them on the right s
         <a href="/_img/1guestbook.webp" data-caption="Sign the guestbook for uhh.... coolness points!">
             <img class="thumb" src="/_img/1guestbook.webp" alt="Sign the guestbook for uhh.... coolness points!">
         </a>
+        <a href="/_img/1placeholder.webp" data-caption="The only placeholder image on this website that isn't a placeholder">
+            <img class="thumb" src="/_img/1placeholder.webp" alt="The only placeholder image on this website that isn't a placeholder">
+        </a>
         <a href="/_img/1button.webp" data-caption="Link to me to reduce your uncoolness points!">
             <img class="thumb" src="/_img/1button.webp" alt="Link to me to reduce your uncoolness points!">
         </a>

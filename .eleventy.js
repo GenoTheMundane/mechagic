@@ -2,6 +2,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/_assets/");
   eleventyConfig.addPassthroughCopy("src/_img/");
   eleventyConfig.addPassthroughCopy("src/_art/");
+  eleventyConfig.addPassthroughCopy("src/_pw/");
   eleventyConfig.addPassthroughCopy("src/_quicksand/");
   eleventyConfig.addPassthroughCopy("src/_con/");
 
