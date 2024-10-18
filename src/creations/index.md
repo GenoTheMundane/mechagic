@@ -9,7 +9,7 @@ propd: Stuff I made, my drawings, my writing, and my music. As well as my paid w
 
 If you like any of my stuff, consider supporting me on [KoFi <i class="ph ph-link"></i>](https://ko-fi.com/mechagic)
 
-I'll make a page for stuff I made professionally ;}
+`/Paid_Work` is a Work In Progress as of right now
 
 <img class="tilt" src="/_img/4kofi.webp" style="width:10%; margin-right:15px;">
 <img class="tilt" src="/_img/4kofi.webp" style="width:10%; margin-right:15px;">
