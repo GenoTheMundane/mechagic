@@ -542,6 +542,12 @@
     .bx1 {
     flex-direction: column;
     }
+    iframe.music {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:90%;
+    }
     /* the order of the items is adjusted here for responsiveness!
     since the sidebars would be too small on a mobile device.
     feel free to play around with the order!
