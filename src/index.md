@@ -17,9 +17,9 @@ propd: A very cool personal website that belongs to a cockroach that learned how
 <div class="bx1">
   <div class="crnlft">
 Have a button that I made:
-<br>
+<br><br>
 <img class="bton" src="/_img/1button.webp">
-
+<br><br>
 <textarea class="copyButton"><a href="https://mechagic.lexiqqq.com/" target="_blank"><img src="https://i.ibb.co/wyKpKxK/1button.png"></a></textarea>
 </div>
  <hr class="vr">
