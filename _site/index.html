@@ -45,6 +45,27 @@ Have a button that I made:
 <p><a href="/guestbook"><img src="/_img/1guestbook.webp" style="width:50%; border-radius:15px; border:2px solid var(--brdr);"></a></p>
   </div>
 </div>
+<a id="commitLink" href="#" target="_blank" style="text-decoration: none;">
+    <div id='bx3'>
+            <p id="shortHash" style="color: #150320; background-color: #fc2b50; font-size: calc(1.3vw + 1.3vh); font-weight: bold">
+            </p>
+            <p id="commitLatest">
+                <br>
+                fetching!! (or its broken idk)
+            </p>
+    </div>
+</a>
+<script>
+fetch('https://api.github.com/repos/GenoTheMundane/mechagic/commits?per_page=1')
+    .then(res => res.json())
+    .then(res => {
+        let sha = res[0].sha;
+        let authorDate = new Date(res[0].commit.author.date);
+        document.getElementById('commitLatest').innerText = res[0].commit.message;
+        document.getElementById('shortHash').innerText = "latest commit:" + sha.substring(0, 7) + " on " + authorDate.toLocaleDateString('en-GB', { day: '2-digit', month: '2-digit', year: '2-digit' });
+        document.getElementById('commitLink').href = "https://api.github.com/repos/GenoTheMundane/mechagic/commits?per_page=1" + sha
+    });
+</script>
 <h2>My Friendos</h2>
 <p>A buncha people I met on the <code>r/neocities discord server</code></p>
 <p><a href="https://reporter.poyo.study/"><img class="bton" style="image-rendering: smooth;" src="https://xobyte.org/files/poyo-reporter.png"></a> <a href="https://april.lexiqqq.com/"><img class="bton" src="https://april.lexiqqq.com/buttons/button.webp"></a> <a href="https://xobyte.org/"><img class="bton" src="https://xobyte.org/files/button.gif"></a> <a href="https://moosyu.github.io/"><img class="bton" src="https://moosyu.github.io/assets/swirlCatppuccin.gif"></a></p>

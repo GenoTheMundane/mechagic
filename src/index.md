@@ -31,6 +31,29 @@ Have a button that I made:
   </div>
 </div>
 
+<a id="commitLink" href="#" target="_blank" style="text-decoration: none;">
+    <div id='bx3'>
+            <p id="shortHash" style="color: #150320; background-color: #fc2b50; font-size: calc(1.3vw + 1.3vh); font-weight: bold">
+            </p>
+            <p id="commitLatest">
+                <br>
+                fetching!! (or its broken idk)
+            </p>
+    </div>
+</a>
+
+<script>
+fetch('https://api.github.com/repos/GenoTheMundane/mechagic/commits?per_page=1')
+    .then(res => res.json())
+    .then(res => {
+        let sha = res[0].sha;
+        let authorDate = new Date(res[0].commit.author.date);
+        document.getElementById('commitLatest').innerText = res[0].commit.message;
+        document.getElementById('shortHash').innerText = "latest commit:" + sha.substring(0, 7) + " on " + authorDate.toLocaleDateString('en-GB', { day: '2-digit', month: '2-digit', year: '2-digit' });
+        document.getElementById('commitLink').href = "https://api.github.com/repos/GenoTheMundane/mechagic/commits?per_page=1" + sha
+    });
+</script>
+
 ## My Friendos
 
 A buncha people I met on the `r/neocities discord server`
