@@ -30,5 +30,5 @@ If you like any of my stuff, consider supporting me on [KoFi <i class="ph ph-lin
 <img class="tilt" src="/_img/4kofi.webp" style="width:10%; margin-right:15px;">
 <img class="tilt" src="/_img/4kofi.webp" style="width:10%; margin-right:15px;">
 <img class="tilt" src="/_img/4kofi.webp" style="width:10%; margin-right:15px;">
-    <h2>Paid Work (wip) <i class="ph ph-coffee"></i> | <a style="color:var(--mn-fnt); text-decoration: overline underline;" href="paid_work"><i class="ph ph-link"></i></a></h2>
+    <h2>Paid Work <i class="ph ph-coffee"></i> | <a style="color:var(--mn-fnt); text-decoration: overline underline;" href="paid_work"><i class="ph ph-link"></i></a></h2>
 </div>
