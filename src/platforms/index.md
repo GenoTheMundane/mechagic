@@ -18,6 +18,10 @@ Besides if Tumblr goes down then this will probably be the only site I'm availab
 
 My Discord account is "mechagic"
 
+- Kofi - [link <i class="ph ph-link"></i>](https://ko-fi.com/mechagic)
+
+- Github - [link <i class="ph ph-link"></i>](https://github.com/GenoTheMundane/)
+
 - Tumblr - [link <i class="ph ph-link"></i>](https://mechagic.tumblr.com/)
 
 - Lemmy - [link <i class="ph ph-link"></i>](https://lemmy.world/u/MECHAGIC)
@@ -30,16 +34,14 @@ Other accounts, or rather accounts that aren't for social media, hell some aren'
 
 Basically a bunch of random stuff that I want linked here
 
-- Kofi - [link <i class="ph ph-link"></i>](https://ko-fi.com/mechagic)
-
 - Roblox - [link <i class="ph ph-link"></i>](https://www.roblox.com/users/5763807601/profile)
 
 - Lorwolf - [link <i class="ph ph-link"></i>]( https://www.lorwolf.com/Play/ViewUser?id=14297)
 
-- TamaNOTchi - [link <i class="ph ph-link"></i>](https://tamanotchi.world/u/7533)
+- Textworld - [link <i class="ph ph-link"></i>](https://www.yourworldoftext.com/~mechagic/)
 
 - Status Cafe - [link <i class="ph ph-link"></i>](https://status.cafe/users/mechagic)
 
-- Centaursona - [link <i class="ph ph-link"></i>](https://perchance.org/centaursona-generator)
+- TamaNOTchi - [link <i class="ph ph-link"></i>](https://tamanotchi.world/u/7533)
 
-- Textworld - [link <i class="ph ph-link"></i>](https://www.yourworldoftext.com/~mechagic/)
+- Centaursona - [link <i class="ph ph-link"></i>](https://perchance.org/centaursona-generator)
