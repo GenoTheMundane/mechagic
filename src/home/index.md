@@ -407,4 +407,4 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
 <br>
             My very cool kinsona, this is what definitely I look like IRL (it's a cockroach)
 
-              <center> <img src="/_img/1sonaref.webp" style="width: 75%;"> </center>
+<center> <img src="/_img/1sonaref.webp" style="width: 75%;"> </center>
