@@ -44,7 +44,7 @@ All of these were made for this website!, you can see two of them on the right s
 The fictional children that I take care of
 
 <center>
-<a href="https://tamanotchi.world/8924c"><img class="pet" style="width:auto;" src="https://tamanotchi.world/i2/8924" alt="It's tamaNOTchi! Click to feed!"></a> <a href="https://tamanotchi.world/8925c"><img class="pet" style="width:auto;" src="https://tamanotchi.world/i2/8925" alt="It's tamaNOTchi! Click to feed!"></a><a href="https://tatteredworld.com/kith/32638"><img class="pet" src="https://tatteredweave.s3.amazonaws.com/uploads/kiths/kith/color/stage1_image/499/kith_GTKITH4_1_blue_large.png"></a>
+<a href="https://tamanotchi.world/8924c"><img class="pet" style="width:auto;" src="https://tamanotchi.world/i2/8924" alt="It's tamaNOTchi! Click to feed!"></a> <a href="https://tamanotchi.world/8925c"><img class="pet" style="width:auto;" src="https://tamanotchi.world/i2/8925" alt="It's tamaNOTchi! Click to feed!"></a>
 </center>
 
 ---
