@@ -219,6 +219,10 @@
     border:2px solid var(--brdr);
     width: 22%;
     }
+    img.tramb {
+    margin: 5px;
+    width: 22%;
+    }
     hr {
     border:3px solid var(--brdr);
     border-radius:5px;
