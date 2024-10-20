@@ -39,12 +39,13 @@ All of these were made for this website!, you can see two of them on the right s
 
 ---
 
-## Tamanotchis <i class="ph ph-paw-print"></i>
+## Pet sites <i class="ph ph-paw-print"></i>
 
-Feed my children
+The fictional children that I take care of
 
-<center><a style="margin-right:10px;" href="https://tamanotchi.world/8924c"><img src="https://tamanotchi.world/i2/8924" alt="It's tamaNOTchi! Click to feed!"></a> <a style="margin-left:10px;" href="https://tamanotchi.world/8925c"><img src="https://tamanotchi.world/i2/8925" alt="It's tamaNOTchi! Click to feed!"></a>
-        </center>
+<center>
+<a href="https://tamanotchi.world/8924c"><img class="pet" style="width:auto;" src="https://tamanotchi.world/i2/8924" alt="It's tamaNOTchi! Click to feed!"></a> <a href="https://tamanotchi.world/8925c"><img class="pet" style="width:auto;" src="https://tamanotchi.world/i2/8925" alt="It's tamaNOTchi! Click to feed!"></a><a href="https://tatteredworld.com/kith/32638"><img class="pet" src="https://tatteredweave.s3.amazonaws.com/uploads/kiths/kith/color/stage1_image/499/kith_GTKITH4_1_blue_large.png"></a>
+</center>
 
 ---
 ## My Friendos <i class="ph ph-smiley"></i>
@@ -57,9 +58,7 @@ A buncha people I met on the `r/neocities discord server`
 
 ## Advertisements <i class="ph ph-x-circle"></i>
 
-None of these are real, I am not getting paid SAD!
-
-<center><iframe style="width:180px; height:180px; margin-right:10px;" src="https://fazlabz-dev.github.io/openlink/embed.html" name="neolink"></iframe>
+None of these are real, I am not getting paid SAD! Will add more when I find them.
 
 <iframe style="width:180px; height:180px; margin-left:10px;" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe></center>
 

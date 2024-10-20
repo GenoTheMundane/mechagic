@@ -223,6 +223,10 @@
     margin: 5px;
     width: 22%;
     }
+    img.pet{
+    width:15%;
+    margin:5px;
+    }
     hr {
     border:3px solid var(--brdr);
     border-radius:5px;
