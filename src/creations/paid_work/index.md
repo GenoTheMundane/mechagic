@@ -15,6 +15,7 @@ I'm not opening up my services right now. ~~15 USD per inquiry. After 3 revision
 
 ## Chattable
 Designed the logo for [Chattable <i class="ph ph-link"></i>](https://iframe.chat/) by Xobyte. It is a free live chat tool for your website that is customizable.
+
 Concept art not pictured.
 
 <div class="gallery">
@@ -26,3 +27,15 @@ Concept art not pictured.
         </a>
 </div>
 <br>
+
+## Poyoweb
+Drew up multiple logos for [Poyoweb <i class="ph ph-link"></i>](https://poyoweb.poyo.study/) by Poyo. An up-and-coming web host made by Poyo and Team Sundown 
+
+<div class="gallery">
+        <a href="/_img/1placeholder.webp" data-caption="placeholder">
+            <img class="thumb" src="/_img/1placeholder.webp" alt="placeholder">
+        </a>
+        <a href="/_img/1placeholder.webp" data-caption="placeholder">
+            <img class="thumb" src="/_img/1placeholder.webp" alt="placeholder">
+        </a>
+</div>
