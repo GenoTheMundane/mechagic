@@ -15,6 +15,7 @@
     --shd:#020226;
     --grdnt:linear-gradient(0deg,rgba(0,6,70,1) 0%,rgba(0,4,44,0.75) 50%);
     --grdnt2:linear-gradient(90deg, rgba(2,4,41,1) 0%, rgba(0,127,255,0.5) 100%);
+    --grdnt3:linear-gradient(180deg, rgba(0,127,255,0.85) 0%, rgba(2,9,50,0) 20%, rgba(2,4,41,0) 50%, rgba(2,9,50,0) 80%, rgba(0,127,255,0.85) 100%);
     --mn-fnt:#ebe6ff;
     --sp-fnt:#53A9FF;
     --sb_btn:#00064680;
@@ -220,12 +221,13 @@
     width: 22%;
     }
     img.tramb {
-    margin: 5px;
-    width: 22%;
-    }
-    img.pet{
-    width:15%;
+    width:25%;
     margin:5px;
+    padding: 5px;
+    border-radius:15px; 
+    border-top:2px solid var(--brdr); 
+    border-bottom:2px solid var(--brdr); 
+    background: var(--grdnt3);
     }
     hr {
     border:3px solid var(--brdr);

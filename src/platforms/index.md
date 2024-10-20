@@ -34,6 +34,8 @@ Basically a bunch of random stuff that I want linked here
 
 - Roblox - [link <i class="ph ph-link"></i>](https://www.roblox.com/users/5763807601/profile)
 
+- Lorwolf - [link <i class="ph ph-link"></i>]( https://www.lorwolf.com/Play/ViewUser?id=14297)
+
 - TamaNOTchi - [link <i class="ph ph-link"></i>](https://tamanotchi.world/u/7533)
 
 - Status Cafe - [link <i class="ph ph-link"></i>](https://status.cafe/users/mechagic)

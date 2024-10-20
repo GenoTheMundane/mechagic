@@ -35,7 +35,7 @@ All of these were made for this website!, you can see two of them on the right s
         <a href="/_img/1pagenotfound.webp" data-caption="Drawing for the 404 page">
             <img class="thumb" src="/_img/1pagenotfound.webp" alt="Drawing for the 404 page">
         </a>
-    </div>
+</div>
 
 ---
 
@@ -43,11 +43,18 @@ All of these were made for this website!, you can see two of them on the right s
 
 The fictional children that I take care of
 
+- TamaNOTchi - [link <i class="ph ph-link"></i>](https://tamanotchi.world/u/7533)
+- Lorwolf - [link <i class="ph ph-link"></i>]( https://www.lorwolf.com/Play/ViewUser?id=14297)
+
 <center>
-<a href="https://tamanotchi.world/8924c"><img class="pet" style="width:auto;" src="https://tamanotchi.world/i2/8924" alt="It's tamaNOTchi! Click to feed!"></a> <a href="https://tamanotchi.world/8925c"><img class="pet" style="width:auto;" src="https://tamanotchi.world/i2/8925" alt="It's tamaNOTchi! Click to feed!"></a>
+<a href="https://tamanotchi.world/8924c"><img class="tramb" style="width:auto;" src="https://tamanotchi.world/i2/8924" alt="It's tamaNOTchi! Click to feed!"></a>
+<a href="https://tamanotchi.world/8925c"><img class="tramb" style="width:auto;" src="https://tamanotchi.world/i2/8925" alt="It's tamaNOTchi! Click to feed!"></a>
+<a href="https://www.lorwolf.com/Play/WolfDetails?id=542018"><img class="tramb" src="https://i.imgur.com/CgvO3cF.png"></a>
+<a href="https://www.lorwolf.com/Play/WolfDetails?id=542019"><img class="tramb" src="https://i.imgur.com/NqUQpWS.png"></a>
 </center>
 
 ---
+
 ## My Friendos <i class="ph ph-smiley"></i>
 
 A buncha people I met on the `r/neocities discord server`
@@ -58,9 +65,9 @@ A buncha people I met on the `r/neocities discord server`
 
 ## Advertisements <i class="ph ph-x-circle"></i>
 
-None of these are real, I am not getting paid SAD! Will add more when I find them.
+None of these are real, I am not getting paid SAD! I will add more when I find them.
 
-<iframe style="width:180px; height:180px; margin-left:10px;" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe></center>
+<center><iframe style="width:180px; height:180px; margin-left:10px;" src="https://dimden.neocities.org/navlink/" name="neolink"></iframe></center>
 
 ---
 
